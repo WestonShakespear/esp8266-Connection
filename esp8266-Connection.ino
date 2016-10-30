@@ -15,8 +15,8 @@ bool recognized = false;
 bool nameSet = false;
 bool ipSet = true;
 
-String recogSSID[3] = {"Iron_Mobile", "ICSD_Guest", "slow"};
-String ssidPASS[3] = {"mangodog", "icsdguest", "Sh2kespe2r"};
+String recogSSID[3] = {"SSID 1", "SSID 2", "SSID 3"};
+String ssidPASS[3] = {"SSID 1 PSK", "SSID 2 PSK", "SSID 3 PSK"};
 
 void startSOFT()
 {
